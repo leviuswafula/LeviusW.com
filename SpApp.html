@@ -134,7 +134,60 @@ footer {
     </div>
     <!-- generate more foodstaffs as per customers' requests -->
   </section>
+  
+  <script src="script.js"></script>
+  // Sample food items data
+const foodItemsData = [
+  { id: 1, name: "Pizza", price: 10 },
+  { id: 2, name: "Burger", price: 8 },
+  { id: 3, name: "Salad", price: 6 },
+  { id: 4, name: "Pasta", price: 12 }
+];
 
+// Display food items on the page
+function displayFoodItems() {
+  const foodItemsDiv = document.getElementById("foodItems");
+
+  foodItemsData.forEach(item => {
+    const foodItem = document.createElement("div");
+    foodItem.classList.add("food-item");
+    foodItem.innerHTML = `
+      <span>${item.name}</span>
+      <span>$${item.price}</span>
+      <button onclick="addToCart(${item.id})">Add to Cart</button>
+    `;
+
+    foodItemsDiv.appendChild(foodItem);
+  });
+}
+
+// Add item to the cart
+function addToCart(itemId) {
+  const selectedItem = foodItemsData.find(item => item.id === itemId);
+
+  const cartItemsUl = document.getElementById("cartItems");
+  const cartItem = document.createElement("li");
+  cartItem.innerHTML = `
+    <span>${selectedItem.name}</span>
+    <span>$${selectedItem.price}</span>
+  `;
+
+  cartItemsUl.appendChild(cartItem);
+}
+
+// Initialize the app
+function init() {
+  displayFoodItems();
+
+  const checkoutBtn = document.getElementById("checkoutBtn");
+  checkoutBtn.addEventListener("click", () => {
+    alert("Thank you for your order!");
+  });
+}
+
+// Call init when the DOM is ready
+document.addEventListener("DOMContentLoaded", init);
+  <script/>
   <footer>
     <p>&copy; 2023 Sp Food Shopping App. All rights reserved.</p>
   </footer>
