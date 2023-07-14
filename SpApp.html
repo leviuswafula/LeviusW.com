@@ -139,7 +139,7 @@ footer {
     <div class="item">
       <img src="chips mwitu.jpg" alt="chips mwitu">
       <h4>chips mwitu</h4>
-      <p>$8.99</p>
+      <p>$12.50</p>
       <button>Add to Cart</button>
     </div>
       <section class="featured-items">
@@ -154,12 +154,15 @@ footer {
   </section>
   
   <script src="script.js"></script>
-  // Sample food items data
+  // Sp food items data
 const foodItemsData = [
-  { id: 1, name: "Pizza", price: 10 },
-  { id: 2, name: "Burger", price: 8 },
-  { id: 3, name: "Salad", price: 6 },
-  { id: 4, name: "Pasta", price: 12 }
+  { id: 1, name: "Pizza", price: 8.99 },
+  { id: 2, name: "Burger", price: 8.99 },
+  { id: 3, name: "shushi", price: 8.99 },
+ { id: 4, name: "salad", price:   8.99 },
+ { id: 5, name: "desserts", price: 9.99 }, 
+ { id: 6, name: "chipo mwitu", price: 12.50 },
+  { id: 7, name: "chappo", price: 2.50 },
 ];
 
 // Display food items on the page
@@ -199,7 +202,7 @@ function init() {
 
   const checkoutBtn = document.getElementById("checkoutBtn");
   checkoutBtn.addEventListener("click", () => {
-    alert("Thank you for your order!");
+    alert("Thank you for your order welcome back again@Sp!");
   });
 }
 
@@ -207,7 +210,7 @@ function init() {
 document.addEventListener("DOMContentLoaded", init);
   <script/>
   <footer>
-    <p>&copy; 2023 Sp Food Shopping App. All rights reserved.</p>
+    <p>&copy; 2023 Sp Food Shopping App_Powered by LARVI-TECH.Shulepress.All rights reserved.</p>
   </footer>
 </body>
 </html>
