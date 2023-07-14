@@ -3,6 +3,73 @@
 <head>
   <title>Sp Food Shopping App</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
+  /* Reset default browser styles */
+body, h1, h2, h3, h4, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.banner {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.categories {
+  margin: 20px 0;
+}
+
+.categories ul {
+  list-style: none;
+  display: flex;
+}
+
+.categories ul li {
+  margin-right: 10px;
+}
+
+.featured-items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.item img {
+  width: 100%;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
 </head>
 <body>
   <header>
