@@ -1,6 +1,6 @@
 # LeviusWafula.com
 # 💫 About Me:
-   #hello there👋™
+   #hello there👋™<br>
 I'm a Software developer @ShulePress<br>Looking forward to collaborate on any dev.projects<br>Can help in Laravel related projecs<br>I'm currently larning Laravel.<br>Can help in building responsive websites<br> mobile app＆sites development. <br>©larvi2023
 
 
