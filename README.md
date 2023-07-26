@@ -1,6 +1,6 @@
 # LeviusW.com
 # 💫 About Me:
-I'm Software developer @ShulePress<br>Looking forward to collaborate on any SE.projects<br>Can help in Laravel related projecs<br>I'm currently larning Laravel.<br>Can help in responsive web development. 
+I'm Software developer @ShulePress<br>Looking forward to collaborate on any dev.projects<br>Can help in Laravel related projecs<br>I'm currently larning Laravel.<br>Can help in responsive web development. 
 
 
 ## 🌐 Socials:
