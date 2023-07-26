@@ -1,6 +1,7 @@
 # LeviusWafula.com
 # 💫 About Me:
-I'm Software developer @ShulePress<br>Looking forward to collaborate on any dev.projects<br>Can help in Laravel related projecs<br>I'm currently larning Laravel.<br>Can help in responsive web development. 
+   #hello there👋™
+I'm a Software developer @ShulePress<br>Looking forward to collaborate on any dev.projects<br>Can help in Laravel related projecs<br>I'm currently larning Laravel.<br>Can help in building responsive websites<br> mobile app＆sites development. <br>©larvi2023
 
 
 ## 🌐 Socials:
@@ -13,7 +14,7 @@ I'm Software developer @ShulePress<br>Looking forward to collaborate on any dev.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leviuswafula&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leviuswafula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies won by levius
 ![](https://github-profile-trophy.vercel.app/?username=Leviuswafula&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -28,8 +29,8 @@ I'm Software developer @ShulePress<br>Looking forward to collaborate on any dev.
 ---
 [![](https://visitcount.itsvg.in/api?id=Leviuswafula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating to my Paypal@leviuswafula
+  ## 💰 You can help me by Donating Paypal@leviuswafula
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leviuswafula) 
 
   
-<!-- Proudly with love in kenya Kitale( https://LaRviTech.itsvg.in ) -->
+<!-- Proudly made with love in kenya(Kitale)(https://LaRvi~Tech.itsvg.in ) -->
