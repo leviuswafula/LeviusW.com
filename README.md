@@ -32,4 +32,4 @@ I'm Software developer @ShulePress<br>Looking forward to collaborate on any dev.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leviuswafula) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly with love in kenya Kitale( https://LaRviTech.itsvg.in ) -->
