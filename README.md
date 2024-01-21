@@ -30,7 +30,6 @@ I'm a Software developer @ShulePress<br>Looking forward to collaborate on any de
 [![](https://visitcount.itsvg.in/api?id=Leviuswafula&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating Paypal@leviuswafula
-[  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leviuswafula) 
-](https://www.paypal.com/myaccount/summary)
+[  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Leviuswafula528@gmail.com) 
   
 <!-- Proudly made with love in kenya(Kitale)(https://LaRvi~Tech.itsvg.in ) -->
